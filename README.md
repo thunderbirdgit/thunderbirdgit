@@ -5,21 +5,24 @@
 <p align="center">
      <img src="https://profile-counter.glitch.me/{thunderbirdgit}/count.svg"  alt="counter"/>
 </p>
-<p align='center'>
-  
+
+<h2>Professional Platforms<h2/>
+<p>
   <a href="https://www.linkedin.com/in/gangadharanr/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
-  </a>&nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="counter"/>
+  </a>
   <a href="https://github.com/thunderbirdgit/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="counter"/>
+  </a>
+
+  <a href="https://stackoverflow.com/users/2494079/ganga?tab=badges" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="counter"/>
+  </a>
+
 </p>
 
-### <h2>Languages and Tools<h2/>
-
+<h2>Languages and Tools<h2/>
 <p align="center">
-
 <code><img width="70px"  src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img width="70px"  src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
 <code><img width="70px" src="https://www.svgrepo.com/show/353929/jenkins.svg"></code>
