@@ -33,7 +33,7 @@
 <code><img width="70px" src="https://img.icons8.com/color/50/000000/git.png"/></code>
 <code><img width="70px"  src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
 <code><img width="70px"  src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img width="70px"  src="https://github.com/user-attachments/assets/af7f1150-9640-4c0c-a719-2d5319a1cd9c"></code>
+<code><img width="70px"  src="https://logos-world.net/wp-content/uploads/2023/03/macOS-Logo.png"></code>
 <code><img width="70px"  src="https://img.icons8.com/color/2x/python.png"></code>
 <code><img width="70px"  src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img width="70px" src="https://img.icons8.com/color/2x/nodejs.png"></code>
