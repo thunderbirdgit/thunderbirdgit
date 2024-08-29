@@ -38,11 +38,11 @@
 <code><img width="70px"  src="https://img.icons8.com/color/2x/python.png"></code>
 <code><img width="70px"  src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img width="70px"  src="https://img.icons8.com/color/2x/nodejs.png"></code>
+<code><img width="70px"  src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg"></code>
+<code><img width="70px"  src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-ar21.svg"></code>
 <code><img width="70px"  src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
 <code><img width="70px"  src="https://upload.vectorlogo.zone/logos/sonarqube/images/dfc028d6-7acc-48c1-99ea-4d3dd5ca4c63.svg"></code>
 <code><img width="70px"  src="https://github.com/cncf/landscape/blob/master/hosted_logos/j-frog-artifactory.svg"></code>
-<code><img width="70px"  src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg"></code>
-<code><img width="70px"  src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-ar21.svg"></code>
 <code><img width="70px"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img width="70px" src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg"></code>
 <code><img width="70px" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
