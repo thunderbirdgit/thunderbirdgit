@@ -1,5 +1,5 @@
 <br>
-<p align=center >I am <strong><a href="https://www.linkedin.com/in/gangadharanr/" target="_blank">Gangadharan Ramakrishnan</a></strong>, DevOps Engineer, specialized in DevOps, CICD, Release Engineering and Automation <img width="70px" src="https://github.com/user-attachments/assets/fe3080c4-767e-4a39-87a2-8c0789fc0d82"  alt="counter"/> 
+<p align=center >I am <strong><a href="https://www.linkedin.com/in/gangadharanr/" target="_blank">Gangadharan Ramakrishnan</a></strong>, DevOps Engineer, specialized in DevOps, CICD, Release Engineering and Automation <img width="70px" src="https://as2.ftcdn.net/v2/jpg/05/41/90/83/1000_F_541908399_uptYuIsUmhx2AKQD05CjLU3gdDg3Nzb4.jpg" alt="counter"/> 
 </p>
 <br>
 <p align="center">
