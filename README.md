@@ -34,9 +34,10 @@
 <code><img width="70px"  src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
 <code><img width="70px"  src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img width="70px"  src="https://logos-world.net/wp-content/uploads/2023/03/macOS-Logo.png"></code>
+<code><img width="70px"  src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
 <code><img width="70px"  src="https://img.icons8.com/color/2x/python.png"></code>
 <code><img width="70px"  src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-<code><img width="70px" src="https://img.icons8.com/color/2x/nodejs.png"></code>
+<code><img width="70px"  src="https://img.icons8.com/color/2x/nodejs.png"></code>
 <code><img width="70px"  src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
 <code><img width="70px"  src="https://upload.vectorlogo.zone/logos/sonarqube/images/dfc028d6-7acc-48c1-99ea-4d3dd5ca4c63.svg"></code>
 <code><img width="70px"  src="https://github.com/cncf/landscape/blob/master/hosted_logos/j-frog-artifactory.svg"></code>
